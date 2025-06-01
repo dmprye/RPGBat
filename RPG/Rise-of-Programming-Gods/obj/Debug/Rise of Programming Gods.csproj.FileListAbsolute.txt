@@ -1,0 +1,12 @@
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\bin\Debug\Rise of Programming Gods.exe.config
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\bin\Debug\Rise of Programming Gods.exe
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\bin\Debug\Rise of Programming Gods.pdb
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise of Programming Gods.csproj.AssemblyReference.cache
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise_of_Programming_Gods.Form1.resources
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise_of_Programming_Gods.Properties.Resources.resources
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise_of_Programming_Gods.WelcomeForm.resources
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise of Programming Gods.csproj.GenerateResource.cache
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise of Programming Gods.csproj.CoreCompileInputs.cache
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise of Programming Gods.exe
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise of Programming Gods.pdb
+C:\Users\Ryen Glynne Nava\Source\Repos\RPG\Rise-of-Programming-Gods\obj\Debug\Rise of Programming Gods.exe.config
